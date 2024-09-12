@@ -1,0 +1,11 @@
+Package: grafiek
+Type: Package
+Title: Graphing and Stats For NGS Data
+Version: 0.1.0
+Author: Ed van Veen
+Maintainer: Ed van Veen <vanveen@ucla.edu>
+Description: Functions intended for use with NGS data to easily make volcano 
+plots, tree plots, etc. 
+License: MIT
+Encoding: UTF-8
+LazyData: true
